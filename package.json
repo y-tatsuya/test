@@ -3,16 +3,13 @@
   "version": "0.0.1",
   "author": "y-tatsuya",
   "preferGlobal": true,
-  "engines": {
-    "node": ">=0.12"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/y-tatsuya/test.git"
   },
   "homepage": "https://github.com/y-tatsuya/test",
   "dependencies": {
-    "async": "*",
+    "sys": "*",
     "http": "*"
   },
   "devDependencies": {
